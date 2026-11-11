@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Shadab 👋
 
-<!--
-**shadab-geospatial/shadab-geospatial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GIS Engineer working with **ArcGIS Pro, ArcPy and AutoCAD**, focused on turning CAD drawings into clean, QC-checked GIS data and automating repetitive GIS workflows.
 
-Here are some ideas to get you started:
+### What I work on
+- 🗺️ CAD to GDB conversion: softscape, hardscape and storm water networks
+- ⚙️ ArcPy automation: geometry cleaning, topology fixes, attribute extraction from labels, automated QC reports
+- 🛰️ UAV data processing and photogrammetry
+- 📐 Cadastral digitization and FMB mapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+`ArcGIS Pro` · `ArcPy` · `Python` · `AutoCAD` · `QGIS` · `SQL`
+
+### Background
+M.Sc. Geology · Research on liquefaction hazard assessment (Institute of Seismological Research, Gandhinagar)
+
+### Currently
+Building automation pipelines for CAD-to-GIS extraction and making them more reusable.
+
+📫 [LinkedIn](https://www.linkedin.com/in/shadab-ansari-6a3848212)
